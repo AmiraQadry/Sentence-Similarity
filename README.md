@@ -11,7 +11,6 @@ The dataset used for this project is the SST-2 (Stanford Sentiment Treebank), an
 - [Model](#model)
 - [Embedding Generation](#embedding-generation)
 - [Cosine Similarity](#cosine-similarity)
-- [Usage](#usage)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 
